@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUNTO_DE_VENTA_CODIGO369_CSHARP", "PUNTO_DE_VENTA_CODIGO369_CSHARP\PUNTO_DE_VENTA_CODIGO369_CSHARP.csproj", "{0430231E-A9B0-4B18-BAF3-64E266AEDF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0430231E-A9B0-4B18-BAF3-64E266AEDF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0430231E-A9B0-4B18-BAF3-64E266AEDF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0430231E-A9B0-4B18-BAF3-64E266AEDF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0430231E-A9B0-4B18-BAF3-64E266AEDF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C991EF3A-1CFB-4E5A-9E04-0FD23842CEB6}
+	EndGlobalSection
+EndGlobal
